@@ -3,9 +3,6 @@ python script for PyMOL (works for me on PyMOL2).
 Calculates the pairwise root-mean-square deviations of Calpha atoms of amino acid chains between all loaded structures.
 Returns rmsd matrix and corresponding heatmap.
 
-# writer
-Onur Turak
-
 # short notice
 in PyMOL go to "Plugin > Plugin manager > Install New Plugin > Choose File..." and upload/install this script.
 call this script by passing "rmsd_matrix" into the PyMOL terminal. 
