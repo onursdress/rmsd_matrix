@@ -1,6 +1,6 @@
 # rmsd_matrix
 python script for PyMOL (works for me on PyMOL2). 
-Calculates the root-mean-square deviations of Calpha atoms of amino acid chains between all loaded structures.
+Calculates the pairwise root-mean-square deviations of Calpha atoms of amino acid chains between all loaded structures.
 Returns rmsd matrix and corresponding heatmap.
 
 # writer
