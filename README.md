@@ -12,4 +12,4 @@ call this script by passing "rmsd_matrix" into the PyMOL terminal.
 matplotlib, pymol, numpy
 
 # room for improvements
-of course. I am not a coder, just a biologist who tries to makes his life easier. 
+of course. I am not a coder, just a biologist who tries to makes his life easier :-)
